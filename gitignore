@@ -1,0 +1,10 @@
+ECHO is on.
+# Ignore Eclipse-specific files
+.settings/
+
+# Ignore Maven build output
+target/
+
+# Ignore OS-specific files
+*.DS_Store
+Thumbs.db
